@@ -21,12 +21,12 @@
 
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+I am going to be a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+- :telescope: I’m working as a Freelancer at Techcurators and contributing to frontend building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring Data Science.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I love to solve problems on GeeksforGeeks and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Vaibhav-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-singh-15a894194/)
 
