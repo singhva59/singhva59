@@ -16,7 +16,7 @@
 </h1>
 </div>
 <div align="center">
-  <a href="#"><img width="100%" height="auto" src="https://raw.githubusercontent.com/thompsonemerson/thompsonemerson/master/cover-thompson.png" height="175px"/></a>
+  <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 </div>
 
 
