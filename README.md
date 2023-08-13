@@ -9,10 +9,8 @@
   </a>
   </div>
     <img src="https://komarev.com/ghpvc/?username=singhva59&style=flat-square&color=blue" alt=""/>
-  <h1>
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff0000&size=29&multiline=true&width=700&lines=Welcome+To+The+Vaibhav+Singh+Github+Profile)](https://git.io/typing-svg)
-
-</h1>
+  
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff0000&size=29&multiline=true&width=700&lines=Welcome+To+The+Vaibhav+Singh+Github+Profile)](https://git.io/typing-svg)
 </div>
 <div align="center">
   <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
