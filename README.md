@@ -10,9 +10,8 @@
   </div>
     <img src="https://komarev.com/ghpvc/?username=singhva59&style=flat-square&color=blue" alt=""/>
   <h1>
-  Hi,
-  <img src="https://media.giphy.com/media/l41lUjUgLLwWrz20w/giphy.gif" width="30px"/>
-    I'm Vaibhav 
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff0000&size=29&multiline=true&width=700&lines=Welcome+To+The+Vaibhav+Singh+Github+Profile)](https://git.io/typing-svg)
+
 </h1>
 </div>
 <div align="center">
