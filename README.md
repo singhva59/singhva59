@@ -21,7 +21,7 @@
 
 
 ### :man_technologist: About Me :
-I am going to be a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am going to be a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
 - :telescope: I’m working as a Freelancer at Techcurators and contributing to frontend building web applications.
 
 - :seedling: Exploring Data Science.
