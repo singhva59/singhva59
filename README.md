@@ -16,12 +16,12 @@
 </h1>
 </div>
 <div align="center">
-  <a href="#"><img width="100%" height="auto" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" height="175px"/></a>
+  <a href="#"><img width="100%" height="auto" src="https://raw.githubusercontent.com/thompsonemerson/thompsonemerson/master/cover-thompson.png" height="175px"/></a>
 </div>
 
 
 ### :man_technologist: About Me :
-I am going to be a Software Engineer <img src="[https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif](https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif)" width="30"> .
+I am going to be a Software Engineer <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="30"> .
 - :telescope: I’m working as a Freelancer at Techcurators and contributing to frontend building web applications.
 
 - :seedling: Exploring Data Science.
