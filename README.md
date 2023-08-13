@@ -10,7 +10,7 @@
   </div>
     <img src="https://komarev.com/ghpvc/?username=singhva59&style=flat-square&color=blue" alt=""/>
   
- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff0000&size=29&multiline=true&width=700&lines=Welcome+To+The+Vaibhav+Singh+Github+Profile)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0A66C2&size=29&multiline=true&width=700&lines=Welcome+To+The+Vaibhav+Singh+Github+Profile)](https://git.io/typing-svg)
 </div>
 <div align="center">
   <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
@@ -43,8 +43,15 @@ I am going to be a Software Engineer <img src="https://github.com/TheDudeThatCod
    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="c++" alt="c++" width="40" height="40"/>&nbsp;
 </div>
 
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-vs.vercel.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-singh-15a894194/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Vaibhav07928955?t=9A2f5GO4P3U5mxXNNv50Jw&s=08)
+
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=singhva59&theme=nightowl)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singhva59&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=singhva59&show_icons=true&count_private=true&theme=radical
+" width="350"></a>
 
