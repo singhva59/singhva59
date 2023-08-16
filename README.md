@@ -5,8 +5,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://linktr.ee/Vaibhavsingh59">
-    <img src="![Linktree Badge](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)
-"/>
+    <img src="https://img.shields.io/badge/just%20the%20Linktree-8A2BE2"/>
   </a>
   </div>
     <img src="https://komarev.com/ghpvc/?username=singhva59&style=flat-square&color=blue" alt=""/>
