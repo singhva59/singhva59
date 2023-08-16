@@ -4,8 +4,9 @@
   <a href="https://www.linkedin.com/in/vaibhav-singh-15a894194/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/Vaibhav07928955?t=9A2f5GO4P3U5mxXNNv50Jw&s=08">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://linktr.ee/Vaibhavsingh59">
+    <img src="![Linktree Badge](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)
+"/>
   </a>
   </div>
     <img src="https://komarev.com/ghpvc/?username=singhva59&style=flat-square&color=blue" alt=""/>
