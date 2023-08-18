@@ -54,4 +54,8 @@ I am going to be a Software Engineer <img src="https://github.com/TheDudeThatCod
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singhva59&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=singhva59&show_icons=true&count_private=true&theme=radical
 " width="350"></a>
+# 📚  Leetcode Stats: 
+[![vaibhaveagle59's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=vaibhaveagle59&theme=Light)](https://github.com/JeremyTsaii/leetcode-stats)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=singhva59&theme=radical&no-frame=false&no-bg=true&margin-w=4)
