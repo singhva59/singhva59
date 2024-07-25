@@ -47,7 +47,7 @@ I am going to be a Software Engineer <img src="https://github.com/TheDudeThatCod
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-vs.vercel.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-singh-15a894194/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Vaibhav07928955?t=9A2f5GO4P3U5mxXNNv50Jw&s=08)
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.crio.do/learn/portfolio/vaibhav-singh-criodo/)
+[![QA Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.crio.do/learn/portfolio/vaibhav-singh-criodo/)
 
 
 
